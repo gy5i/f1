@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ALB| BABY TV" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDU2LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| BABY TV
-https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116056.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB| BANG BANG" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDU3LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| BANG BANG
+#EXTINF:-1 tvg-id="" tvg-name="ALB| BANG BANG tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDU3LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| BANG BANG
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116057.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| SKY KOMEDI HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDU5LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| SKY KOMEDI HD
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116059.ts
