@@ -75,8 +75,6 @@ https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116119.ts
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116125.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH SAT" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MTI2LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| RTSH SAT
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116126.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH 2 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MTI3LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| RTSH 2 HD
-https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116127.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH 3" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MTI5LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| RTSH 3
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116129.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH FEMIJE" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MTMwLnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| RTSH FEMIJE
