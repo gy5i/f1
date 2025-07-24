@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ALB| KLAN NEWS" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDQ4LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| KLAN NEWS
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116048.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| BABY TV" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDU2LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| BABY TV
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116056.ts
