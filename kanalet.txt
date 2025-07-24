@@ -5,8 +5,6 @@ https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116057.ts
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116059.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| CUFO" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDYwLnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| CUFO
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116060.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY CHANNEL" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDYyLnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| DISCOVERY CHANNEL
-https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116062.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY SCIENCE" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDYzLnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| DISCOVERY SCIENCE
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116063.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| DISCOVERY TURBO EXTRA" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MDY0LnBuZw%3D%3D" group-title="AL| ALBANIA",ALB| DISCOVERY TURBO EXTRA
