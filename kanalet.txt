@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MjQ4LnBuZw%3D%3D"
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MjQ4LnBuZw%3D%3D" group-title="Lando", SPORT 1 HD
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116248.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 4K" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MzMwLnBuZw%3D%3D" 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 4K" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MzMwLnBuZw%3D%3D" group-title="Lando", SPORT 1 4K
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116330.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTc0LnBuZw%3D%3D" 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTc0LnBuZw%3D%3D" group-title="Lando", SPORT 1 4K HEVC
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/315174.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 2 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MjQ5LnBuZw%3D%3D" 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 2 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MjQ5LnBuZw%3D%3D" group-title="Lando", SPORT 2 HD
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116249.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 2 4K" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MzMxLnBuZw%3D%3D" 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 2 4K" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MzMxLnBuZw%3D%3D" group-title="Lando", SPORT 2 4K
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116331.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 2 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTczLnBuZw%3D%3D"
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 2 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTczLnBuZw%3D%3D" group-title="Lando", SPORT 2 4K HEVC
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/315173.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 3 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MjUwLnBuZw%3D%3D"
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 3 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MjUwLnBuZw%3D%3D" group-title="Lando", SPORT 3 HD
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116250.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 3 4K" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MzMyLnBuZw%3D%3D"
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 3 4K" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MzMyLnBuZw%3D%3D" group-title="Lando", SPORT 3 4K
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116332.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 3 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTcyLnBuZw%3D%3D" 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 3 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTcyLnBuZw%3D%3D" group-title="Lando", SPORT 3 4K HEVC
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/315172.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 4 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MjUxLnBuZw%3D%3D" 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 4 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MjUxLnBuZw%3D%3D" group-title="Lando", SPORT 4 HD
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116251.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT 4 4K" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MzMzLnBuZw%3D%3D" 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 4 4K" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMTE2MzMzLnBuZw%3D%3D" group-title="Lando", SPORT 4 4K
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/116333.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT4 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTcxLnBuZw%3D%3D" 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 4 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTcxLnBuZw%3D%3D" group-title="Lando", SPORT 4 4K HEVC
 https://freeiptv.ottc.xyz:443/live/359324712596/435557152688/315171.ts
