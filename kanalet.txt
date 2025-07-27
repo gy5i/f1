@@ -23,3 +23,9 @@ https://freeiptv.ottc.xyz:443/live/392318271455/373949744202/116251.ts
 https://freeiptv.ottc.xyz:443/live/392318271455/373949744202/116333.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT4 4K HEVC" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovL3BpY29ucy5jbXNodWxrLmNvbS9waWNvbnMvMzE1MTcxLnBuZw%3D%3D" group-title="AL| ALBANIA SPORTS",ALB| SUPER SPORT4 4K HEVC
 https://freeiptv.ottc.xyz:443/live/392318271455/373949744202/315171.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovLzEwMy4xNzYuOTAuMTE4L3BpY29ucy9sb2dvcy9FVVJPUEUvVklBUExBWSUyMC0lMjBDb3BpZS5wbmc%3D" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1
+https://freeiptv.ottc.xyz:443/live/392318271455/373949744202/317781.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 HD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovLzEwMy4xNzYuOTAuMTE4L3BpY29ucy9sb2dvcy9FVVJPUEUvVklBUExBWSUyMC0lMjBDb3BpZS5wbmc%3D" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 HD
+https://freeiptv.ottc.xyz:443/live/392318271455/373949744202/317782.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY SPORTS F1 UHD" tvg-logo="https://argontv.ru/api/v1/channel-logo?k=aHR0cDovLzEwMy4xNzYuOTAuOTIvaW1hZ2VzLzE3NjE1MDAucG5n" group-title="4K UHD 3840P",4K| SKY SPORTS F1 UHD
+https://freeiptv.ottc.xyz:443/live/392318271455/373949744202/1761500.ts
